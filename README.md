@@ -19,6 +19,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXF6Yjd0bHU1NGNjMm5tYnJrNzYwNmJ3eXI5ZTdwbHR0cjJtM2lhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="450" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXF6Yjd0bHU1NGNjMm5tYnJrNzYwNmJ3eXI5ZTdwbHR0cjJtM2lhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="800" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
